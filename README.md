@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nicolas
 
-## Analista de Datos y Business Intelligence 📊🔍
+## Ingeniero Analista de Datos y Business Intelligence 📊🔍
 
 ¡Bienvenido a mi perfil de GitHub! Soy un analista de datos con experiencia en inteligencia de negocios y análisis financiero, apasionado por transformar datos complejos en información accionable. Aquí encontrarás algunos de mis proyectos más destacados.
 
