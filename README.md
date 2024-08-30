@@ -17,7 +17,7 @@
 **"FinDataSync: Advanced Financial Data Optimization in Google Sheets-Python"**  
 Durante este proyecto, trabajé con estados financieros, balances y otros datos contables en Google Sheets. El desafío principal fue lidiar con formatos desorganizados, celdas combinadas y estructuras complejas, lo que complicaba la conversión a código. Utilicé técnicas de Python para automatizar la actualización de balances, reconstruir la parametría y generar nueva información a partir de los datos iniciales. Los resultados incluyeron la automatización completa del proceso de actualización, lo que permitió una gestión más eficiente y precisa de los datos financieros.
 
-**"[Quantum DataWorks: Automation and Optimization of Data Processes in Excel-Python](https://github.com/nicolasramirezperilla/Quantum_DataWorks/tree/master)"**  
+**[Quantum DataWorks: Automation and Optimization of Data Processes in Excel-Python](https://github.com/nicolasramirezperilla/Quantum_DataWorks/tree/master)**  
 En **Quantum DataWorks**, manejé datos operativos como posiciones arancelarias, productos, marcas, valores FOB y CIF, y detalles sobre países y cantidades. Implementé técnicas de minería de datos y limpieza en Excel, desarrollando scripts para identificar patrones y clasificar la información. Automatizando el análisis de datos, los reportes generados ayudaron a reducir significativamente el tiempo y los costos operativos, facilitando la comparación y consolidación de información.
 
 **"CrimeViz Pro: Interactive Dashboard Development and Trend Analysis in Power BI"**  
