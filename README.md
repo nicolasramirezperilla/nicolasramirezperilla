@@ -14,7 +14,7 @@
 
 ### Proyectos Laborales & Académicos
 
-**"FinDataSync: Advanced Financial Data Optimization in Google Sheets-Python"**  
+**[FinDataSync: Advanced Financial Data Optimization in Google Sheets-Python](https://github.com/nicolasramirezperilla/FinDataSync/tree/master)**  
 Durante este proyecto, trabajé con estados financieros, balances y otros datos contables en Google Sheets. El desafío principal fue lidiar con formatos desorganizados, celdas combinadas y estructuras complejas, lo que complicaba la conversión a código. Utilicé técnicas de Python para automatizar la actualización de balances, reconstruir la parametría y generar nueva información a partir de los datos iniciales. Los resultados incluyeron la automatización completa del proceso de actualización, lo que permitió una gestión más eficiente y precisa de los datos financieros.
 
 **[Quantum DataWorks: Automation and Optimization of Data Processes in Excel-Python](https://github.com/nicolasramirezperilla/Quantum_DataWorks/tree/master)**  
