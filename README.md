@@ -1,63 +1,57 @@
-# ¡Hola! 👋 Soy Nicolas
+# Hello! 👋 I'm Nicolas
 
 ## **Data Engineer and Business Intelligence Analyst** 📊🔍
 
-¡Bienvenido a mi perfil de GitHub! Soy un analista de datos con experiencia en inteligencia de negocios y análisis financiero, apasionado por transformar datos complejos en información accionable. Aquí encontrarás algunos de mis proyectos más destacados.
+Welcome to my GitHub profile! I am a data analyst with experience in business intelligence and financial analysis, passionate about transforming complex data into actionable insights. Here, you will find some of my most notable projects.
 
-### Acerca de mí
+### About Me
 
-- 🧰 Experto en herramientas como Python, Power BI, SQL y más.
-- 🌐 Siempre aprendiendo y explorando nuevas técnicas y tecnologías en el campo de los datos.
-- 📊 Enfocado en la optimización y automatización de procesos de información para mejorar la toma de decisiones.
-- 🌍 Apasionado por la exploración de datos y su impacto en diversas industrias.
-- 📈 Comprometido en convertir datos en conocimientos valiosos que impulsen estrategias efectivas.
+- 🧰 Skilled in tools like Python, Power BI, SQL, and more.
+- 🌐 Always learning and exploring new techniques and technologies in the data field.
+- 📊 Focused on optimizing and automating information processes to improve decision-making.
+- 🌍 Passionate about data exploration and its impact on various industries.
+- 📈 Committed to turning data into valuable insights that drive effective strategies.
 
-### Proyectos Laborales & Académicos
+### Work & Academic Projects
 
 **[FinDataSync: Advanced Financial Data Optimization in Google Sheets-Python](https://github.com/nicolasramirezperilla/FinDataSync/tree/master)**  
-Durante este proyecto, trabajé con estados financieros, balances y otros datos contables en Google Sheets. El desafío principal fue lidiar con formatos desorganizados, celdas combinadas y estructuras complejas, lo que complicaba la conversión a código. Utilicé técnicas de Python para automatizar la actualización de balances, reconstruir la parametría y generar nueva información a partir de los datos iniciales. Los resultados incluyeron la automatización completa del proceso de actualización, lo que permitió una gestión más eficiente y precisa de los datos financieros.
+In this project, I worked with financial statements, balances, and other accounting data in Google Sheets. The main challenge was dealing with disorganized formats, merged cells, and complex structures, which complicated code conversion. I used Python techniques to automate balance updates, reconstruct parameters, and generate new information from the initial data. Results included complete automation of the update process, allowing for more efficient and accurate financial data management.
 
 **[Quantum DataWorks: Automation and Optimization of Data Processes in Excel-Python](https://github.com/nicolasramirezperilla/Quantum_DataWorks/tree/master)**  
-En **Quantum DataWorks**, manejé datos operativos como posiciones arancelarias, productos, marcas, valores FOB y CIF, y detalles sobre países y cantidades. Implementé técnicas de minería de datos y limpieza en Excel, desarrollando scripts para identificar patrones y clasificar la información. Automatizando el análisis de datos, los reportes generados ayudaron a reducir significativamente el tiempo y los costos operativos, facilitando la comparación y consolidación de información.
+In **Quantum DataWorks**, I managed operational data such as tariff positions, products, brands, FOB and CIF values, and details about countries and quantities. I implemented data mining and cleaning techniques in Excel, developing scripts to identify patterns and classify information. Automating data analysis, the generated reports significantly reduced operational time and costs, facilitating comparison and consolidation of information.
 
 **"CrimeViz Pro: Interactive Dashboard Development and Trend Analysis in Power BI"**  
-El proyecto **CrimeViz Pro** se centró en la visualización de datos criminales, incluyendo estadísticas de crimen, ubicación, tipo de delito, y características demográficas de los involucrados. Ajusté gráficos y métricas para mejorar la visualización e implementé interactividad basada en el tipo de delito, tiempo, estado de los casos, sexo y descendencia. Superé desafíos relacionados con la integración de datos para evitar conclusiones contradictorias. El dashboard resultante permitió una comprensión más clara del comportamiento social y ayudó en la toma de decisiones basada en tendencias criminales.
+The **CrimeViz Pro** project focused on visualizing criminal data, including crime statistics, location, crime type, and demographic characteristics of those involved. I adjusted charts and metrics to improve visualization and implemented interactivity based on crime type, time, case status, gender, and ethnicity. I overcame challenges related to data integration to avoid contradictory conclusions. The resulting dashboard allowed for a clearer understanding of social behavior and helped in decision-making based on crime trends.
 
-**"LookerVista: Dashboard Enhancement and Data Visualization Optimization"**  
-En **LookerVista**, optimicé dashboards en Looker Studio para datos relacionados con diferentes gerencias, como seguros, fiduciaria y comercializadora. Añadí variables como porcentajes de TAM y cumplimiento presupuestario, mejorando la representación gráfica al combinar diversas herramientas en Looker para crear visualizaciones elegantes. Utilicé técnicas de optimización inspiradas en proyectos formalizados en Power BI para lograr una visualización más clara y concisa, lo que facilitó un análisis más detallado y eficiente de los datos.
+### What I've Learned
 
+Through my work and academic projects, I have gained valuable skills and knowledge in:
 
-### Lo que he Aprendido
+- **Exploratory Data Analysis:** Faced significant challenges using AI to identify patterns in large datasets, leading me to develop automation code. For example, in a recent project, I used machine learning techniques to detect hidden patterns in disorganized financial data, optimizing how I processed and analyzed data. This approach helped automate data cleaning and preparation, improving the efficiency and accuracy of my analyses.
 
-A través de mis proyectos laborales y académicos, he adquirido habilidades y conocimientos valiosos en:
+- **Data Cleaning and Preprocessing:** I have extensively worked with Python, Jupyter, Excel, SQL, and Power BI for data cleaning and preprocessing. I found Python particularly useful for data manipulation and process automation. Jupyter has been invaluable for documenting and executing my analyses, while SQL has enabled efficient handling of large data volumes. Excel and Power BI have been essential for visualizing and presenting data clearly.
 
-- **Análisis exploratorio de datos:** Enfrenté un desafío significativo al usar inteligencia artificial para identificar patrones en grandes conjuntos de datos, lo que me llevó a desarrollar un código de automatización. Por ejemplo, en un proyecto reciente, utilicé técnicas de machine learning para detectar patrones ocultos en datos financieros desorganizados, lo que permitió optimizar la forma en que procesaba y analizaba los datos. Este enfoque me ayudó a automatizar el proceso de limpieza y preparación de datos, mejorando la eficiencia y precisión de mis análisis.
+- **Process Automation:** I have developed and applied automation solutions to improve efficiency in data management and analysis. This includes creating Python scripts to automate repetitive tasks, such as updating financial balances and generating reports. These automations have significantly reduced the time required to complete these tasks and minimized human errors.
 
-- **Limpieza y preprocesamiento de datos:** He trabajado extensamente con Python, Jupyter, Excel, SQL y Power BI para la limpieza y el preprocesamiento de datos. He encontrado que el uso de Python para la manipulación de datos y la automatización de procesos es particularmente útil. Jupyter ha sido una herramienta invaluable para documentar y ejecutar mis análisis, mientras que SQL me ha permitido manejar grandes volúmenes de datos de manera eficiente. Excel y Power BI han sido esenciales para visualizar y presentar los datos de manera comprensible.
+- **Query Performance Optimization:** I have implemented advanced techniques to optimize query performance in databases. This has included creating efficient indexes and restructuring SQL queries to improve speed and efficiency in data retrieval. These efforts have resulted in a significant reduction in response times and improved handling of large data volumes.
 
-- **Automatización de procesos:** He desarrollado y aplicado soluciones de automatización para mejorar la eficiencia en la gestión y el análisis de datos. Esto incluye la creación de scripts en Python para automatizar tareas repetitivas, como la actualización de balances financieros y la generación de reportes. Estas automatizaciones han reducido significativamente el tiempo requerido para completar estas tareas y han minimizado los errores humanos.
+- **Effective Data Visualization:** I have used various visualization techniques to enhance the clarity of my analyses. A particularly effective technique I implemented was creating interactive scatter plots in Power BI to analyze the relationship between key variables. This visualization allowed users to explore data more intuitively and gain detailed insights from large datasets.
 
-- **Optimización del rendimiento de consultas:** He implementado técnicas avanzadas para optimizar el rendimiento de consultas en bases de datos. Esto ha incluido la creación de índices eficientes y la reestructuración de consultas SQL para mejorar la velocidad y la eficiencia en la recuperación de datos. Estos esfuerzos han resultado en una reducción significativa en los tiempos de respuesta y una mejora en la capacidad de manejo de grandes volúmenes de datos.
+### What's Next?
 
-- **Visualización de datos efectiva:** He utilizado diversas técnicas de visualización para mejorar la claridad de mis análisis. Una técnica particularmente efectiva que implementé fue la creación de gráficos de dispersión interactivos en Power BI para analizar la relación entre variables clave. Esta visualización permitió a los usuarios explorar los datos de manera más intuitiva y obtener insights detallados a partir de grandes conjuntos de datos.
+My journey as a data analyst is constantly evolving. I am excited to continue learning and applying my skills to more challenging and real-world projects. In particular, I am interested in delving deeper into financial and industrial data analysis. I look forward to exploring projects that involve optimizing financial processes and improving efficiency in industrial sectors, using advanced data analysis and visualization techniques to address complex problems and generate effective solutions.
 
-### ¿Qué sigue?
+### Favorite Resources
 
-Mi viaje como analista de datos está en constante evolución. Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en proyectos más desafiantes y del mundo real. En particular, me interesa profundizar en el análisis de datos en el área financiera e industrial. Me entusiasma explorar proyectos que involucren la optimización de procesos financieros y la mejora de la eficiencia en sectores industriales, utilizando técnicas avanzadas de análisis y visualización de datos para abordar problemas complejos y generar soluciones efectivas.
+Here are some resources I find useful for data analysis:
 
+- 📚 [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - An essential book for learning to use Python in data analysis.
+- 📚 [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - An excellent resource for getting started with machine learning.
+- 📰 [Towards Data Science](https://towardsdatascience.com/) - A blog with a wide range of articles on data analysis, machine learning, and visualization.
+- 📰 [Kaggle](https://www.kaggle.com/) - A data science platform offering datasets, competitions, and educational resources.
+- 🎥 [DataCamp](https://www.datacamp.com/) - An online platform with interactive courses on data analysis and data science.
 
-
-### Recursos Favoritos
-
-Aquí comparto algunos recursos que encuentro útiles para el análisis de datos:
-
-- 📚 [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - Un libro esencial para aprender a usar Python en el análisis de datos.
-- 📚 [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Excelente recurso para iniciarse en el aprendizaje automático.
-- 📰 [Towards Data Science](https://towardsdatascience.com/) - Un blog con una amplia gama de artículos sobre análisis de datos, aprendizaje automático y visualización.
-- 📰 [Kaggle](https://www.kaggle.com/) - Plataforma de ciencia de datos que ofrece conjuntos de datos, competencias y recursos educativos.
-- 🎥 [DataCamp](https://www.datacamp.com/) - Plataforma en línea con cursos interactivos sobre análisis de datos y ciencia de datos.
-
-### Tecnologías conocidas
+### Known Technologies
 
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_numpy.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
@@ -66,30 +60,18 @@ Aquí comparto algunos recursos que encuentro útiles para el análisis de datos
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_seaborn.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_sklearn.svg" title="Sklearn" alt="Sklearn" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/apache-spark/neo-apache-spark.svg" title="Apache Spark" alt="Scipy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Power-bi" alt="Power-bi" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/apache-spark/neo-apache-spark.svg" title="Apache Spark" alt="Apache Spark" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Power-bi" alt="Power BI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/streamlit/neo-streamlit.svg" title="Streamlit" alt="Streamlit" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" title="FastApi" alt="FastApi" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="Discord" alt="Discord" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VSCode" width="60" height="60"/>&nbsp;
-  <img src="https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
-  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/google-cloud-square.png" title="Google Cloud Plataform" alt="Google Cloud Plataform" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
 
-### Contacto
+---
 
-¡Conéctate conmigo en LinkedIn para discutir sobre datos, analítica y más! 📫 
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-ram%C3%ADrez-perilla-9494081a7/">
-  <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Logo" width="120" height="35"/>
-</a>
-
-¡También puedes contactarme a través de mi dirección de correo electrónico:
-<a href="mailto:nicolasrape15@gmail.com">
-  <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Logo" width="120" height="35"/>
-</a>
-
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. ¡No dudes en ponerte en contacto!
+Feel free to connect with me or explore my projects. If you have any questions or collaboration ideas, don't hesitate to reach out!
