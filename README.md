@@ -23,8 +23,13 @@ In **Quantum DataWorks**, I managed operational data such as tariff positions, p
 **[DataWave: Digital Transformation and Data Process Automation with SAP HANA](https://github.com/nicolasramirezperilla/DataWave-Project/tree/master)**  
 In the **DataWave project**, I led the digital transformation of data management processes for 12 internal departments at Colsubsidio. The challenge was to replace manual tasks in Excel and Access with automated Python-based solutions, seamlessly integrating them with SAP HANA. I developed custom scripts for data parametrization, integration, and preparation for SAP Analytics Cloud. The project resulted in a 50% reduction in processing time, enhanced data accuracy, and a streamlined workflow that significantly improved the efficiency of data handling across the organization.
 
-**"CrimeViz Pro: Interactive Dashboard Development and Trend Analysis in Power BI"**  
-The **CrimeViz Pro** project focused on visualizing criminal data, including crime statistics, location, crime type, and demographic characteristics of those involved. I adjusted charts and metrics to improve visualization and implemented interactivity based on crime type, time, case status, gender, and ethnicity. I overcame challenges related to data integration to avoid contradictory conclusions. The resulting dashboard allowed for a clearer understanding of social behavior and helped in decision-making based on crime trends.
+**ElectroCensus: Interactive Dashboard Development and EV Population Analysis in Power BI**
+The **ElectroCensus** project focused on visualizing electric vehicle (EV) population data, including EV adoption rates, geographic distribution, and vehicle types. I optimized charts and metrics to enhance data visualization and implemented interactivity based on EV type, region, manufacturer, and adoption trends. I addressed challenges related to data consistency and integration to ensure accurate insights. The resulting dashboard provided a comprehensive understanding of the EV market, supporting data-driven decisions for policymakers and industry stakeholders.
+
+<div align="center">
+    <img src="https://github.com/nicolasramirezperilla/Quantum_DataWorks/blob/master/Logo%20-%20Quantum%20Datawok.png" alt="QuantumData Banner" width="500"/>
+</div>
+
 
 ### What I've Learned
 
