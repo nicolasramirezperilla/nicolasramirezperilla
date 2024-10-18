@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I am a data analyst with experience in business in
 
 ### Work & Academic Projects
 
+**[ElectroCensus: Interactive Dashboard Development and EV Population Analysis in Power BI](https://github.com/nicolasramirezperilla/Electric_Vehicle_Population_Data/tree/master)**
+The **ElectroCensus** project focused on visualizing electric vehicle (EV) population data, including EV adoption rates, geographic distribution, and vehicle types. I optimized charts and metrics to enhance data visualization and implemented interactivity based on EV type, region, manufacturer, and adoption trends. I addressed challenges related to data consistency and integration to ensure accurate insights. The resulting dashboard provided a comprehensive understanding of the EV market, supporting data-driven decisions for policymakers and industry stakeholders.
+
 **[FinDataSync: Advanced Financial Data Optimization in Google Sheets-Python](https://github.com/nicolasramirezperilla/FinDataSync/tree/master)**  
 In this project, I worked with financial statements, balances, and other accounting data in Google Sheets. The main challenge was dealing with disorganized formats, merged cells, and complex structures, which complicated code conversion. I used Python techniques to automate balance updates, reconstruct parameters, and generate new information from the initial data. Results included complete automation of the update process, allowing for more efficient and accurate financial data management.
 
@@ -22,14 +25,6 @@ In **Quantum DataWorks**, I managed operational data such as tariff positions, p
 
 **[DataWave: Digital Transformation and Data Process Automation with SAP HANA](https://github.com/nicolasramirezperilla/DataWave-Project/tree/master)**  
 In the **DataWave project**, I led the digital transformation of data management processes for 12 internal departments at Colsubsidio. The challenge was to replace manual tasks in Excel and Access with automated Python-based solutions, seamlessly integrating them with SAP HANA. I developed custom scripts for data parametrization, integration, and preparation for SAP Analytics Cloud. The project resulted in a 50% reduction in processing time, enhanced data accuracy, and a streamlined workflow that significantly improved the efficiency of data handling across the organization.
-
-**ElectroCensus: Interactive Dashboard Development and EV Population Analysis in Power BI**
-The **ElectroCensus** project focused on visualizing electric vehicle (EV) population data, including EV adoption rates, geographic distribution, and vehicle types. I optimized charts and metrics to enhance data visualization and implemented interactivity based on EV type, region, manufacturer, and adoption trends. I addressed challenges related to data consistency and integration to ensure accurate insights. The resulting dashboard provided a comprehensive understanding of the EV market, supporting data-driven decisions for policymakers and industry stakeholders.
-
-<div align="center">
-    <img src="https://github.com/nicolasramirezperilla/Quantum_DataWorks/blob/master/Logo%20-%20Quantum%20Datawok.png" alt="QuantumData Banner" width="500"/>
-</div>
-
 
 ### What I've Learned
 
