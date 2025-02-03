@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a data analyst with experience in business in
 
 ### Work & Academic Projects
 
-**[ElectroCensus: Interactive Dashboard Development and EV Population Analysis in Power BI](https://github.com/nicolasramirezperilla/Electric_Vehicle_Population_Data/tree/master)**
+**[ElectroCensus: Interactive Dashboard Development and EV Population Analysis in Power BI](https://github.com/nicolasramirezperilla/Electric_Vehicle_Population_Data/tree/master)**  
 The **ElectroCensus** project focused on visualizing electric vehicle (EV) population data, including EV adoption rates, geographic distribution, and vehicle types. I optimized charts and metrics to enhance data visualization and implemented interactivity based on EV type, region, manufacturer, and adoption trends. I addressed challenges related to data consistency and integration to ensure accurate insights. The resulting dashboard provided a comprehensive understanding of the EV market, supporting data-driven decisions for policymakers and industry stakeholders.
 
 **[FinDataSync: Advanced Financial Data Optimization in Google Sheets-Python](https://github.com/nicolasramirezperilla/FinDataSync/tree/master)**  
